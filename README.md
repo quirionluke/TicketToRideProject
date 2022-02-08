@@ -11,5 +11,7 @@ The game engine infrastructure and inputs and displays were all written from scr
 
 
 Contributors:
+
 Luke Quirion: quirionluke
+
 Jamie Peterson: jamiepeterson
